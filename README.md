@@ -1,1 +1,1 @@
-# u1s_test01
+tsinghua ubuntu tuna mirrors
